@@ -24,6 +24,4 @@ router.patch('/:id', updateUser);
 //update a new
 router.post('/login', loginUser);
 
-
-
 module.exports = router;
